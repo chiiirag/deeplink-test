@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.authpackage.purpusandroid",
+      "sha256_cert_fingerprints": [
+        "A9:5B:BD:9D:92:47:21:53:6C:80:7F:43:3E:2A:89:51:E2:C0:94:DC:ED:AA:B9:52:6A:E5:0B:75:D4:E1:70:B0"
+      ]
+    }
+  }
+]
